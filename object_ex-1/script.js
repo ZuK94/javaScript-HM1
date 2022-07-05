@@ -58,43 +58,43 @@ console.log({
         room: [11],
       },
     },
-    room: {
-      door0: {
-        goesTo: "main entrance",
+    room: [
+      {
+        door: "main entrance",
       },
-      door1: {
-        goesTo: "employee lounge",
+      {
+        door: "employee lounge",
       },
-      door2: {
-        goesTo: "kitchen",
+      {
+        door: "kitchen",
       },
-      door3: {
-        goesTo: "security room",
+      {
+        door: "security room",
       },
-      door4: {
-        goesTo: "server room",
+      {
+        door: "server room",
       },
-      door5: {
-        goesTo: "laboratory",
+      {
+        door: "laboratory",
       },
-      door6: {
-        goesTo: "conference room",
+      {
+        door: "conference room",
       },
-      door7: {
-        goesTo: "2nd floor",
+      {
+        door: "2nd floor",
       },
-      door8: {
-        goesTo: "office 1",
+      {
+        door: "office 1",
       },
-      foor9: {
-        goesTo: "office 2",
+      {
+        door: "office 2",
       },
-      door10: {
-        goesTo: " office3",
+      {
+        door: " office3",
       },
-      door11: {
-        goesTo: "D-day button",
+      {
+        door: "D-day button",
       },
-    },
+    ],
   },
 });
